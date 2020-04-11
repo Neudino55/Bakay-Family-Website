@@ -1,0 +1,28 @@
+body {
+	background-image: url(./family_photo_1.png);
+	background-size: cover;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+}
+
+li{
+	display: grid;
+	grid-area: 1/5;
+	list-style: none;
+}
+
+#navigation {
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	background: rgba(0, 0, 255, 0.1);
+
+}
+
+/*.push{
+	display: flex;
+	justify-content: flex-end;
+}*/
